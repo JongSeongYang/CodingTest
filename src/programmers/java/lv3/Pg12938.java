@@ -4,7 +4,7 @@ import java.util.*;
 
 // 최고의 집합
 
-public class Pg131129 {
+public class Pg12938 {
     public int[] solution(int n, int s) {
         // n이 s보다 크면 불가능한 경우
         if(n > s) return new int[] {-1};
