@@ -1,10 +1,10 @@
-package programmers.java.lv3;
+package programmers.java.lv2;
 
 import java.util.*;
 
 // 124나라의 숫자
 
-public class Pg12946 {
+public class Pg12899 {
     public String solution(int n) {
         String answer = "";
         String[] numbers = {"4", "1", "2"};
